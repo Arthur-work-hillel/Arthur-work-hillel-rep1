@@ -1,9 +1,5 @@
 Finally, OldMan is here.
 
-<<<<<<< HEAD
 OldMan is dealing with this Git thing. He is too old for all of this....
-=======
-OldMan is dealing with this "Git thing". He is too old for all of this....
 
 Do not like it.
->>>>>>> 2da0ec53939fbec4a685c142cd86d94c2846eae1
